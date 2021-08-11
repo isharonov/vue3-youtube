@@ -1,6 +1,6 @@
 <template>
 	<div>
-		<h1>My first Vue3 app, created by course on YouTube</h1>
+		<h1>Моё первое приложение на Vue3, созданное в рамках курса на YouTube</h1>
 	</div>
 </template>
 
